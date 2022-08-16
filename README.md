@@ -1,8 +1,7 @@
 <h1 align="center"> Home - Site Alura Books </h1>
 
 # Resumo do projeto
-Início do Frone-End do site Alura Books.
-Totalmente responsivo.
+Início do Front-End do site Alura Books.
 
 Acesse:
 https://filipe-lima88.github.io/alurabooks/
